@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DFC3C1ED-4424-4FBF-91A3-3FB6329868EB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A762CAC-72C7-4CD2-8558-C1B5B9048BAD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MacWorkspaces/MenuApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0A762CAC-72C7-4CD2-8558-C1B5B9048BAD - f6acd020471497d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #2 (MacWorkspaces.Workspace) -&gt; SwiftUI.Button&lt;SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, SwiftUI.ForEach&lt;Swift.Array&lt;MacWorkspaces.Workspace&gt;, MacWorkspaces.Workspace, SwiftUI.Button&lt;SwiftUI.Text&gt;&gt;)&gt; in MacWorkspaces.MenuApp.body.getter : some"
+                  moduleName = "MacWorkspaces"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leonardomigliorelli/Programmazione/Projects/MacWorkspaces/MacWorkspaces/MenuApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "0A762CAC-72C7-4CD2-8558-C1B5B9048BAD - f6acd020471497d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #2 (MacWorkspaces.Workspace) -&gt; SwiftUI.Button&lt;SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, SwiftUI.ForEach&lt;Swift.Array&lt;MacWorkspaces.Workspace&gt;, MacWorkspaces.Workspace, SwiftUI.Button&lt;SwiftUI.Text&gt;&gt;)&gt; in MacWorkspaces.MenuApp.body.getter : some"
+                  moduleName = "MacWorkspaces"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leonardomigliorelli/Programmazione/Projects/MacWorkspaces/MacWorkspaces/MenuApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F60C1919-8EC5-4972-83D2-64F1D65855EC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MacWorkspaces/MenuApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "addWorkspace()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F60C1919-8EC5-4972-83D2-64F1D65855EC - 4f915df27d78eede"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MacWorkspaces.MenuApp.addWorkspace() -&gt; ()"
+                  moduleName = "MacWorkspaces"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leonardomigliorelli/Programmazione/Projects/MacWorkspaces/MacWorkspaces/MenuApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "808">
+               </Location>
+               <Location
+                  uuid = "F60C1919-8EC5-4972-83D2-64F1D65855EC - 4f915df27d78efd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MacWorkspaces.MenuApp.addWorkspace() -&gt; ()"
+                  moduleName = "MacWorkspaces"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leonardomigliorelli/Programmazione/Projects/MacWorkspaces/MacWorkspaces/MenuApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "616">
+               </Location>
+               <Location
+                  uuid = "F60C1919-8EC5-4972-83D2-64F1D65855EC - 4f915df27d78efd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MacWorkspaces.MenuApp.addWorkspace() -&gt; ()"
+                  moduleName = "MacWorkspaces"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leonardomigliorelli/Programmazione/Projects/MacWorkspaces/MacWorkspaces/MenuApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "600">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9D12CB9-1557-4685-BF4E-43ECE2605CEB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MacWorkspaces/MenuApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "setWorkspace(_:force:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E9D12CB9-1557-4685-BF4E-43ECE2605CEB - 7800cdc034bf3452"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MacWorkspaces.MenuApp.setWorkspace(_: MacWorkspaces.Workspace, force: Swift.Bool) -&gt; ()"
+                  moduleName = "MacWorkspaces"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leonardomigliorelli/Programmazione/Projects/MacWorkspaces/MacWorkspaces/MenuApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "1152">
+               </Location>
+               <Location
+                  uuid = "E9D12CB9-1557-4685-BF4E-43ECE2605CEB - 5c74a4235559ea85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in MacWorkspaces.MenuApp.setWorkspace(_: MacWorkspaces.Workspace, force: Swift.Bool) -&gt; ()"
+                  moduleName = "MacWorkspaces"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leonardomigliorelli/Programmazione/Projects/MacWorkspaces/MacWorkspaces/MenuApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6EDAC67-4756-4AA5-B9A2-7C17BF1D5B4A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MacWorkspaces/MenuApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "setWorkspace(_:force:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C6EDAC67-4756-4AA5-B9A2-7C17BF1D5B4A - 5c74a4235559ea85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in MacWorkspaces.MenuApp.setWorkspace(_: MacWorkspaces.Workspace, force: Swift.Bool) -&gt; ()"
+                  moduleName = "MacWorkspaces"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leonardomigliorelli/Programmazione/Projects/MacWorkspaces/MacWorkspaces/MenuApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "C6EDAC67-4756-4AA5-B9A2-7C17BF1D5B4A - 7800cdc034bf3435"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MacWorkspaces.MenuApp.setWorkspace(_: MacWorkspaces.Workspace, force: Swift.Bool) -&gt; ()"
+                  moduleName = "MacWorkspaces"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leonardomigliorelli/Programmazione/Projects/MacWorkspaces/MacWorkspaces/MenuApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "1192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72CC128B-872D-4DF1-9327-8C7B7F1F78D9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MacWorkspaces/MenuApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "setWorkspace(_:force:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BAC14001-D01A-4CA4-9C26-AF19833E7580"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MacWorkspaces/MenuApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "toWindow(_:force:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB6C3B2F-C2C8-43D4-9A00-9FDEF97CA137"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MacWorkspaces/MenuApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "addWorkspace()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9B548C0-3D83-4D45-968F-BE40EFA21693"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MacWorkspaces/MenuApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "toWindow(_:force:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
