@@ -6,6 +6,14 @@
          contextName = "MenuApp.setWorkspace(_:):MenuApp.swift">
       </ContextState>
       <ContextState
+         contextName = "MenuApp.deleteWorkspace():MenuApp.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSApplication.shared.windows">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
          contextName = "closure #1 in MenuApp.setWorkspace(_:force:):MenuApp.swift">
       </ContextState>
       <ContextState
@@ -16,6 +24,17 @@
          <PersistentStrings>
             <PersistentString
                value = "workspaces.last?.id ?? -1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MenuApp.toWindow(_:force:):MenuApp.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSScreen.screens">
+            </PersistentString>
+            <PersistentString
+               value = "NSScreen.screens.contains(where: { screen == $0 })">
             </PersistentString>
          </PersistentStrings>
       </ContextState>
