@@ -58,14 +58,14 @@
 		8548E4E12A96243800315D8B /* MacWorkspaces */ = {
 			isa = PBXGroup;
 			children = (
-				8548E4F52A9633B400315D8B /* Workspace.swift */,
+				8548E4F32A96253200315D8B /* AppDelegate.swift */,
 				8548E4E22A96243800315D8B /* MacWorkspacesApp.swift */,
-				8548E4FC2A9672E800315D8B /* Extensions */,
+				8548E4F52A9633B400315D8B /* Workspace.swift */,
 				8548E4F12A96247C00315D8B /* MenuApp.swift */,
 				8548E4E62A96243900315D8B /* Assets.xcassets */,
 				8548E4EB2A96243900315D8B /* MacWorkspaces.entitlements */,
 				8548E4E82A96243900315D8B /* Preview Content */,
-				8548E4F32A96253200315D8B /* AppDelegate.swift */,
+				8548E4FC2A9672E800315D8B /* Extensions */,
 			);
 			path = MacWorkspaces;
 			sourceTree = "<group>";
